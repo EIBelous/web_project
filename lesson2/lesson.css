@@ -17,3 +17,6 @@
 .icon{
     display: inline-block;
 }
+body{
+    width:600px;
+}
