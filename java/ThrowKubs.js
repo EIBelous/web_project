@@ -34,7 +34,11 @@ let getWinners = function (players) {
         let currentPlayer = players[i];
         if (currentPlayer.points > max.points) {
             max = currentPlayer;
-            console.log('Новый рекордсмен: ' + currentPlayer.points);
+            winners = [max];
+        } else {
+            if (currentPlayer.points === max.points) {
+                winners.push(currentPlayer);
+            }
         }
     }
 
