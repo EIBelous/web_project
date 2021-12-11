@@ -24,7 +24,9 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="445dc6f0-fa84-4749-b331-b5ae747f67ac" name="Default Changelist" comment="" />
+    <list default="true" id="445dc6f0-fa84-4749-b331-b5ae747f67ac" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/java/computerPrice metod.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,6 +78,7 @@
       <workItem from="1638294125629" duration="145000" />
       <workItem from="1638606207760" duration="49000" />
       <workItem from="1638765732802" duration="141000" />
+      <workItem from="1639188211577" duration="367000" />
     </task>
     <task id="LOCAL-00001" summary="style with linear gradient">
       <created>1635703552021</created>
@@ -189,7 +192,14 @@
       <option name="project" value="LOCAL" />
       <updated>1638765863029</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="ready">
+      <created>1639188428861</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1639188428861</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -216,27 +226,31 @@
     <MESSAGE value="cant add background image!!!!" />
     <MESSAGE value="commit1" />
     <MESSAGE value="loop begin" />
-    <MESSAGE value="ready" />
     <MESSAGE value="done" />
     <MESSAGE value="my calculator" />
     <MESSAGE value="Arrows of obtions" />
     <MESSAGE value="arrow winners" />
     <MESSAGE value="finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="finished" />
+    <MESSAGE value="ready" />
+    <option name="LAST_COMMIT_MESSAGE" value="ready" />
   </component>
   <component name="WindowStateProjectService">
     <state x="134" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1635703418563">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state x="134" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1360.728@0.0.1360.728" timestamp="1635703418563" />
+    <state x="413" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1639188285421">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="413" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1360.728@0.0.1360.728" timestamp="1639188285421" />
     <state x="460" y="119" key="FileChooserDialogImpl" timestamp="1635943081277">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state x="460" y="119" key="FileChooserDialogImpl/0.0.1360.728@0.0.1360.728" timestamp="1635943081277" />
-    <state x="272" y="97" key="Vcs.Push.Dialog.v2" timestamp="1638765869631">
+    <state x="272" y="97" key="Vcs.Push.Dialog.v2" timestamp="1639188438063">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state x="272" y="97" key="Vcs.Push.Dialog.v2/0.0.1360.728@0.0.1360.728" timestamp="1638765869631" />
+    <state x="272" y="97" key="Vcs.Push.Dialog.v2/0.0.1360.728@0.0.1360.728" timestamp="1639188438063" />
     <state x="336" y="162" key="run.anything.popup" timestamp="1637063044398">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
