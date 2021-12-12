@@ -3,12 +3,15 @@ let itsRaining = false;
 
 let minutes;
 
-if((itsRaining==true)||(temperature<0)||(temperature>35)){
-    minutes=0}else if(temperature===20){minutes=20}
-else{minutes=20-Math.abs(temperature-20)}
-
-
-
+if ((itsRaining == true) || (temperature < 0)) {
+    minutes = 0
+} else if (temperature > 35) {
+    minutes = 0
+} else if (temperature === 20) {
+    minutes = 20
+} else {
+    minutes = 20 - Math.abs(temperature - 20)
+}
 
 
 /* Техническое задание
