@@ -80,6 +80,7 @@
       <workItem from="1639331335354" duration="99000" />
       <workItem from="1639485593481" duration="868000" />
       <workItem from="1639489004623" duration="325000" />
+      <workItem from="1639676389440" duration="73000" />
     </task>
     <task id="LOCAL-00001" summary="style with linear gradient">
       <created>1635703552021</created>
@@ -235,7 +236,14 @@
       <option name="project" value="LOCAL" />
       <updated>1639489035854</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="done">
+      <created>1639676455765</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1639676455765</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -262,14 +270,14 @@
     <MESSAGE value="cant add background image!!!!" />
     <MESSAGE value="commit1" />
     <MESSAGE value="loop begin" />
-    <MESSAGE value="done" />
     <MESSAGE value="my calculator" />
     <MESSAGE value="Arrows of obtions" />
     <MESSAGE value="arrow winners" />
     <MESSAGE value="ready" />
     <MESSAGE value="Finished" />
     <MESSAGE value="finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="finished" />
+    <MESSAGE value="done" />
+    <option name="LAST_COMMIT_MESSAGE" value="done" />
   </component>
   <component name="WindowStateProjectService">
     <state x="134" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1635703418563">
