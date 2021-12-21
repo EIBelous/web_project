@@ -1,0 +1,39 @@
+let catalogData = [
+    {
+        isAvailable: true,
+        isSpecial: false
+    },
+    {
+        isAvailable: false,
+        isSpecial: false
+    },
+    {
+        isAvailable: true,
+        isSpecial: true
+    },
+    {
+        isAvailable: true,
+        isSpecial: false
+    },
+    {
+        isAvailable: false,
+        isSpecial: false
+    }
+];
+
+let updateCards = function (products) {
+    const elements = document.querySelectorAll('.product');
+    for (let i = 0; i < elements.length; i++) {
+        let element = elements[i];
+        console.log(element);
+        let product = products[i];
+        console.log(product);
+        let availabilityClass = 'product--available';
+        if (!product.isAvailable) {
+            availabilityClass = 'product--unavailable';
+        }
+        element.classList.add(availabilityClass);
+    }
+};
+
+updateCards(catalogData);
