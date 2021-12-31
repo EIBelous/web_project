@@ -33,9 +33,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JavaScript File" />
         <option value="HTML File" />
         <option value="CSS File" />
-        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -89,6 +89,7 @@
       <workItem from="1640160371772" duration="1631000" />
       <workItem from="1640370639942" duration="721000" />
       <workItem from="1640531584631" duration="137000" />
+      <workItem from="1640630501604" duration="118000" />
     </task>
     <task id="LOCAL-00001" summary="style with linear gradient">
       <created>1635703552021</created>
@@ -314,7 +315,14 @@
       <option name="project" value="LOCAL" />
       <updated>1640531711611</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="start">
+      <created>1640630611221</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1640630611222</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -337,7 +345,6 @@
     <MESSAGE value="style with linear gradient fixed" />
     <MESSAGE value="linear gradient flags" />
     <MESSAGE value="commit1 , ready" />
-    <MESSAGE value="start" />
     <MESSAGE value="cant add background image!!!!" />
     <MESSAGE value="commit1" />
     <MESSAGE value="loop begin" />
@@ -350,7 +357,8 @@
     <MESSAGE value="done" />
     <MESSAGE value="BEGIN" />
     <MESSAGE value="ready" />
-    <option name="LAST_COMMIT_MESSAGE" value="ready" />
+    <MESSAGE value="start" />
+    <option name="LAST_COMMIT_MESSAGE" value="start" />
   </component>
   <component name="WindowStateProjectService">
     <state x="134" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1635703418563">
