@@ -93,6 +93,7 @@
       <workItem from="1640921551509" duration="428000" />
       <workItem from="1641103015924" duration="733000" />
       <workItem from="1641238241505" duration="186000" />
+      <workItem from="1641324819730" duration="45000" />
     </task>
     <task id="LOCAL-00001" summary="style with linear gradient">
       <created>1635703552021</created>
@@ -353,7 +354,14 @@
       <option name="project" value="LOCAL" />
       <updated>1641238418855</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="finished">
+      <created>1641324853026</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1641324853026</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -386,10 +394,10 @@
     <MESSAGE value="temporary save" />
     <MESSAGE value="BEGIN" />
     <MESSAGE value="ready" />
-    <MESSAGE value="finished" />
     <MESSAGE value="done" />
     <MESSAGE value="start" />
-    <option name="LAST_COMMIT_MESSAGE" value="start" />
+    <MESSAGE value="finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="finished" />
   </component>
   <component name="WindowStateProjectService">
     <state x="134" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1635703418563">
@@ -404,10 +412,10 @@
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state x="460" y="119" key="FileChooserDialogImpl/0.0.1360.728@0.0.1360.728" timestamp="1635943081277" />
-    <state x="272" y="97" key="Vcs.Push.Dialog.v2" timestamp="1641238421803">
+    <state x="272" y="97" key="Vcs.Push.Dialog.v2" timestamp="1641324858066">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state x="272" y="97" key="Vcs.Push.Dialog.v2/0.0.1360.728@0.0.1360.728" timestamp="1641238421803" />
+    <state x="272" y="97" key="Vcs.Push.Dialog.v2/0.0.1360.728@0.0.1360.728" timestamp="1641324858066" />
     <state x="336" y="162" key="run.anything.popup" timestamp="1637063044398">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
