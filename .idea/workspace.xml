@@ -37,6 +37,7 @@
         <option value="CSS File" />
         <option value="TypeScript JSX File" />
         <option value="JavaScript File" />
+        <option value="HTTP Request" />
       </list>
     </option>
   </component>
@@ -114,6 +115,7 @@
       <workItem from="1643049745742" duration="930000" />
       <workItem from="1643133288214" duration="211000" />
       <workItem from="1643309927709" duration="38000" />
+      <workItem from="1643777313438" duration="111000" />
     </task>
     <task id="LOCAL-00001" summary="style with linear gradient">
       <created>1635703552021</created>
@@ -409,7 +411,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643309959797</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="work with data">
+      <created>1643777417706</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1643777417706</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -448,7 +457,8 @@
     <MESSAGE value="start" />
     <MESSAGE value="lesson3" />
     <MESSAGE value="27 january" />
-    <option name="LAST_COMMIT_MESSAGE" value="27 january" />
+    <MESSAGE value="work with data" />
+    <option name="LAST_COMMIT_MESSAGE" value="work with data" />
   </component>
   <component name="WindowStateProjectService">
     <state x="134" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1643133342613">
@@ -463,10 +473,10 @@
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state x="460" y="119" key="FileChooserDialogImpl/0.0.1360.728@0.0.1360.728" timestamp="1635943081277" />
-    <state x="272" y="97" key="Vcs.Push.Dialog.v2" timestamp="1643309961837">
+    <state x="272" y="97" key="Vcs.Push.Dialog.v2" timestamp="1643777420432">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state x="272" y="97" key="Vcs.Push.Dialog.v2/0.0.1360.728@0.0.1360.728" timestamp="1643309961837" />
+    <state x="272" y="97" key="Vcs.Push.Dialog.v2/0.0.1360.728@0.0.1360.728" timestamp="1643777420432" />
     <state x="336" y="162" key="run.anything.popup" timestamp="1637063044398">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
