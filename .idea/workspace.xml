@@ -24,7 +24,9 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="445dc6f0-fa84-4749-b331-b5ae747f67ac" name="Default Changelist" comment="" />
+    <list default="true" id="445dc6f0-fa84-4749-b331-b5ae747f67ac" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -117,6 +119,8 @@
       <workItem from="1643309927709" duration="38000" />
       <workItem from="1643777313438" duration="111000" />
       <workItem from="1643950064519" duration="56000" />
+      <workItem from="1644209835214" duration="97000" />
+      <workItem from="1644771311118" duration="11000" />
     </task>
     <task id="LOCAL-00001" summary="style with linear gradient">
       <created>1635703552021</created>
@@ -426,7 +430,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643950107577</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="start">
+      <created>1644209924885</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1644209924885</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -462,12 +473,12 @@
     <MESSAGE value="done" />
     <MESSAGE value="finished" />
     <MESSAGE value="done . HTML ACADEMY EXAM" />
-    <MESSAGE value="start" />
     <MESSAGE value="lesson3" />
     <MESSAGE value="27 january" />
     <MESSAGE value="work with data" />
     <MESSAGE value="taking input" />
-    <option name="LAST_COMMIT_MESSAGE" value="taking input" />
+    <MESSAGE value="start" />
+    <option name="LAST_COMMIT_MESSAGE" value="start" />
   </component>
   <component name="WindowStateProjectService">
     <state x="134" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1643133342613">
@@ -482,10 +493,10 @@
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state x="460" y="119" key="FileChooserDialogImpl/0.0.1360.728@0.0.1360.728" timestamp="1635943081277" />
-    <state x="272" y="97" key="Vcs.Push.Dialog.v2" timestamp="1643950112260">
+    <state x="272" y="97" key="Vcs.Push.Dialog.v2" timestamp="1644209927009">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state x="272" y="97" key="Vcs.Push.Dialog.v2/0.0.1360.728@0.0.1360.728" timestamp="1643950112260" />
+    <state x="272" y="97" key="Vcs.Push.Dialog.v2/0.0.1360.728@0.0.1360.728" timestamp="1644209927009" />
     <state x="336" y="162" key="run.anything.popup" timestamp="1637063044398">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
